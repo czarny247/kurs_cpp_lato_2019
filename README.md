@@ -10,12 +10,12 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Punktacja
 
-| | alicjaliqui | TheDude | piotr.kowandy | Daniel T | Joanna | RyszardH | MonikaZ | Piotr H | Kuba_k |  SzymonGajewski | Bodzio | Adam Mierzwiak | Cypher | Raziel14 | zielin | Łukasz | Marcin Bury | MWoz | Alicja | nadia1101 | Arion | rafal.em | kasia.zel | Krzysiek | NG |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L1. Narzędzia programisty (15 pkt) |
-| L2. Podstawy C++ |
-| L3. Obiektowy C++ |
-| **SUMA** |
+| | alicjaliqui | TheDude | piotr.kowandy | Daniel T | Joanna | RyszardH | MonikaZ | Piotr H | Kuba_k |  SzymonGajewski | Bodzio | Adam Mierzwiak | Cypher | Raziel14 | zielin | Łukasz | Marcin Bury | MWoz | Alicja | nadia1101 | Arion | rafal.em | kasia.zel | Krzysiek | NG | mateuszh |
+| ---                                |---|---|---|---|---|---|---|---|---|---|---|--- |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| L1. Narzędzia programisty (15 pkt) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| L2. Podstawy C++                   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| L3. Obiektowy C++                  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **SUMA**                           | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ### Nagrody
 

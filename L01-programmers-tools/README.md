@@ -27,11 +27,18 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - [Vim Cheat Sheet](vim-cheat-sheet.gif)
 - [Preferred Vim Configuration](https://github.com/amix/vimrc)
 - [Git Cheat Sheet](github-git-cheat-sheet.pdf)
+- [Historia terminala z zajęć](06.07.2019_history.txt)
 
-### Nagranie i foto
+### Nagrania i foto
 
-- Tutaj pojawi się nagranie wideo :)
-- Tutaj pojawią się zdjęcia z zajęć
+- [06.07.2019 Wprowadzenie](https://www.youtube.com/watch?v=_3Kb8uEvn6s&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=2&t=0s)
+- [06.07.2019 Narzędzia programisty: linux i vim](https://www.youtube.com/watch?v=rltQ2aZQdqE&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=3&t=0s)
+- [06.07.2019 Narzędzia programisty: git](https://www.youtube.com/watch?v=_ElZZKoTnJY&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=4&t=0s)
+- [06.07.2019 Narzędzia programisty: kompilator, make, cmake](https://www.youtube.com/watch?v=j-P2MjCM40o&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=5&t=0s)
+- [06.07.2019 Narzędzia programisty: formatowanie kodu](https://www.youtube.com/watch?v=Y4OsUF9pfXk&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=6&t=0s)
+- <img src="01_contract.jpg" width="250px" /> <img src="02_descriptors.jpg" width="250px" />
+  <img src="03_commit_tree.jpg" width="250px" /> <img src="04_compilation_options.jpg" width="250px" />
+  <img src="05_formatting.jpg" width="250px" />
 
 ### Post-work
 
