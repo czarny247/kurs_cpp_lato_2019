@@ -10,12 +10,34 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Punktacja
 
-| | alicjaliqui | TheDude | piotr.kowandy | Daniel T | Joanna | RyszardH | MonikaZ | Piotr H | Kuba_k |  SzymonGajewski | Bodzio | Adam Mierzwiak | Cypher | Raziel14 | zielin | Łukasz | Marcin Bury | MWoz | Alicja | nadia1101 | Arion | rafal.em | kasia.zel | Krzysiek | NG | mateuszh |
-| ---                                |---|---|---|---|---|---|---|---|---|---|---|--- |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| L1. Narzędzia programisty (15 pkt) | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| L2. Podstawy C++                   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| L3. Obiektowy C++                  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0  | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **SUMA**                           | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| | L1. Narzędzia programisty (15) | L2. Podstawy C++ | L3. Obiektowy C++ |
+|---                                                  |--- |--- |--- |
+| [Adam Mierzwiak](https://github.com/adamvm)         | 14 |    |    | 
+| [Alicja](https://github.com/AlicjaBonder)           | 12 |    |    |
+| alicjaliqui                                         |    |    |    |
+| Arion                                               |    |    |    |
+| [Bodzio](https://github.com/Dolaroza)               |  2 |    |    |
+| [Cypher](https://github.com/ChopSeeGuy)             |  8 |    |    |
+| Daniel T                                            |    |    |    |
+| Joanna                                              |    |    |    |
+| [kasia.zel](https://github.com/kasiazel)            |  2 |    |    |
+| Krzysiek                                            |    |    |    |
+| Kuba_k                                              |    |    |    |
+| [Łukasz](https://github.com/lucaswalicki)           |  2 |    |    |
+| Marcin Bury                                         |    |    |    |
+| mateuszh                                            |    |    |    |
+| [MonikaZ](https://github.com/MonikaZelechowska)     |  7 |    |    |
+| MWoz                                                |    |    |    |
+| [nadia1101](https://github.com/JustynaSlazak)       |  3 |    |    |
+| NG                                                  |    |    |    |
+| Piotr H                                             |    |    |    |
+| [piotr.kowandy](https://github.com/PiotrKowandy)    |  2 |    |    |
+| rafal.em                                            |    |    |    |
+| Raziel14                                            |    |    |    |
+| RyszardH                                            |    |    |    |
+| [SzymonGajewski](https://github.com/SzymonGajewski) |  7 |    |    |
+| TheDude                                             |  1 |    |    |
+| zielin                                              |    |    |    |
 
 ### Nagrody
 
