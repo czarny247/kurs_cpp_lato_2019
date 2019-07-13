@@ -28,14 +28,14 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [mateuszh](https://github.com/czarny247)            |  2 |    |    |    |
 | [MonikaZ](https://github.com/MonikaZelechowska)     | 15 |    |    |  3 |
 | MWoz                                                |    |    |    |    |
-| [nadia1101](https://github.com/JustynaSlazak)       |  8 |    |    |    |
+| [nadia1101](https://github.com/JustynaSlazak)       | 15 |    |    |    |
 | NG                                                  |    |    |    |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |  8 |    |    |    |
 | [piotr.kowandy](https://github.com/PiotrKowandy)    | 15 |    |    |  3 |
 | [rafal.em](https://github.com/elRaphaelo)           |  2 |    |    |    |
 | [Raziel14](https://github.com/Arakis14)             |  1 |    |    |    |
 | [RyszardH](https://github.com/RyszardHalapacz)      |  9 |    |    |    |
-| [SzymonGajewski](https://github.com/SzymonGajewski) | 10 |    |    |    |
+| [SzymonGajewski](https://github.com/SzymonGajewski) | 15 |    |    |  3 |
 | [TheDude](https://github.com/TheDude-cpu)           |  4 |    |    |    |
 | zielin                                              |    |    |    |    |
 
@@ -44,5 +44,5 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - 0 punktów - notes z długopisem :)
 - 100 punktów - zaślepka na kamerkę
 - 200 punktów - certyfikat na zakończenie kursu
-- 300 punktów - książka Zawód programista Macieja Aniserowicza
+- 300 punktów - książka Zawód programista Macieja Aniserowicza ze specjalną dedykacją :)
 - 400 punktów - książka C++17 STL. Receptury Jacka Galowicza
