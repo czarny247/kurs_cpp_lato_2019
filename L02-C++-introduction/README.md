@@ -21,9 +21,10 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Nagrania i foto
 
-- [13.07.2019 Podstawy C++: wstęp](https://www.youtube.com/watch?v=y0OF_lkWmqM&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=7&t=0s)
-- [13.07.2019 Podstawy C++: typy](https://www.youtube.com/watch?v=7AsPSKEbgXI&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=8&t=0s)
+- [13.07.2019 Podstawy C++: wstęp](https://www.youtube.com/watch?v=y0OF_lkWmqM&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=7)
+- [13.07.2019 Podstawy C++: typy](https://www.youtube.com/watch?v=7AsPSKEbgXI&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=7)
 - [13.07.2019 Podstawy C++: rekurencja](https://www.youtube.com/watch?v=XyXVNRgHl48&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=8)
+- [13.07.2019 Podstawy C++: stos i sterta](https://www.youtube.com/watch?v=WBypsZQTFQw&list=PLQqoaQUqs4DCbDNiqBU3E9bFvX6YSUZc1&index=10)
 - <img src="foto/01_repetition.jpg" width="250px" /> <img src="foto/02_long_int.jpg" width="250px" />
   <img src="foto/03_param_passing.jpg" width="250px" /> <img src="foto/04_zdalne_repo.jpg" width="250px" />
 
