@@ -13,7 +13,8 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - [Prezentacja Obiektowy C++](object_oriented_cpp.pdf)
 - [Pre-test](pre-test.txt)
 - [Post-test](post-test.txt)
-- [Repozytorium z projektem](https://github.com/coders-school/Cars)
+- [Repozytorium z wstępnym projektem](https://github.com/coders-school/Cars)
+- [Branch z naszym rozwiązaniem z zajęć](https://github.com/coders-school/Cars/tree/2019_lato)
 - [Kolejność inicjalizacji](https://dorwijnerda.pl/blog/kolejnosc-inicjalizacji/)
 
 ### Nagrania i foto

@@ -25,9 +25,9 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Joanna](https://github.com/teojdb)                 |   28 |            3 |    |    |      1 |         |    |       |      | 15 |  9 |    |
 | Kamil.Waszkiewicz                                   |    0 |              |    |    |        |         |    |       |      |    |    |    |
 | [kasia.zel](https://github.com/kasiazel)            |    6 |              |    |    |        |         |    |       |      |  6 |    |    |
-| Kuba_k                                              |    1 |              |    |    |        |         |    |       |      |  1 |    |    |
+| [Kuba_K](https://github.com/kubakusz)               |    3 |              |    |    |        |         |    |       |      |  3 |    |    |
 | [Łukasz](https://github.com/lucaswalicki)           |    8 |              |    |    |        |         |    |       |      |  8 |    |    |
-| [Marcin Bury](https://github.com/MarcinBury92)      |    7 |              |    |    |        |         |    |       |      |  7 |    |    |
+| [Marcin Bury](https://github.com/MarcinBury92)      |   15 |              |    |    |        |         |    |       |      | 15 |    |    |
 | [mateuszh](https://github.com/czarny247)            |   18 |              |    |    |        |         |    |       |      |  6 | 12 |    |
 | [MonikaZ](https://github.com/MonikaZelechowska)     |   33 |            3 |    |    |        |         |    |       |      | 15 | 15 |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   18 |            3 |    |    |        |         |    |       |      | 15 |    |    |
@@ -36,7 +36,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [piotr.kowandy](https://github.com/PiotrKowandy)    |   39 |            6 |    |    |      3 |         |    |       |      | 15 | 15 |    |
 | [rafal.em](https://github.com/elRaphaelo)           |    9 |              |    |    |        |         |    |       |      |  7 |  2 |    |
 | [Raziel14](https://github.com/Arakis14)             |    2 |              |    |    |        |         |    |       |      |  2 |    |    |
-| [RyszardH](https://github.com/RyszardHalapacz)      |    9 |              |    |    |        |         |    |       |      |  9 |    |    |
+| [RyszardH](https://github.com/RyszardHalapacz)      |   27 |            3 |    |    |        |         |    |       |      |  9 | 15 |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |   39 |            6 |    |    |      3 |         |    |       |      | 15 | 15 |    |
 | [TheDude](https://github.com/TheDude-cpu)           |   17 |              |    |    |        |         |    |       |      |  4 | 13 |    |
 | zielin                                              |    0 |              |    |    |        |         |    |       |      |    |    |    |
