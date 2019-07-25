@@ -2,7 +2,7 @@
 
 Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
-## 20.07.2019 Obiektowy C++ (podstawowe typy, funkcje, rekurencja, stos, sterta, wskaźniki, referencje, OOP, klasy, konstruktory, destruktory, operatory)
+## 20.07.2019 Obiektowy C++ (abstrakcja, enkapsulacja, dziedziczenie, polimorfizm, problem diamentowy)
 
 ### Poprzedni Pre-work
 

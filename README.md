@@ -5,9 +5,10 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 ## Materiały
 
 ### [Projekt](project)
-### 06.07.2019 [L01 - narzędzia programisty](L01-programmers-tools)
-### 13.07.2019 [L02 - Podstawy C++](L02-C++-introduction)
-### 20.07.2019 [L03 - Obiektowy C++](L03-object-oriented-cpp)
+### [L01 - narzędzia programisty](L01-programmers-tools)
+### [L02 - Podstawy C++](L02-C++-introduction)
+### [L03 - Obiektowy C++](L03-object-oriented-cpp)
+### [L04 - STL](L03-stl)
 
 ## Organizacja
 
@@ -23,8 +24,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Cypher](https://github.com/ChopSeeGuy)             |   26 |            3 |    |    |        |         |    |       |      | 15 |  8 |    |
 | [Daniel T](https://github.com/LinQ007)              |   25 |            3 |    |    |        |         |    |       |      | 15 |  7 |    |
 | [Joanna](https://github.com/teojdb)                 |   28 |            3 |    |    |      1 |         |    |       |      | 15 |  9 |    |
-| Kamil.Waszkiewicz                                   |    0 |              |    |    |        |         |    |       |      |    |    |    |
-| [kasia.zel](https://github.com/kasiazel)            |    6 |              |    |    |        |         |    |       |      |  6 |    |    |
+| [Kamil.Waszkiewicz](https://github.com/darkassazi)  |    2 |              |    |    |        |         |    |       |      |  2 |    |    |
 | [Kuba_K](https://github.com/kubakusz)               |    3 |              |    |    |        |         |    |       |      |  3 |    |    |
 | [Łukasz](https://github.com/lucaswalicki)           |    8 |              |    |    |        |         |    |       |      |  8 |    |    |
 | [Marcin Bury](https://github.com/MarcinBury92)      |   15 |              |    |    |        |         |    |       |      | 15 |    |    |
