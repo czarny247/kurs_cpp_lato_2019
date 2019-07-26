@@ -37,12 +37,13 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Post-work
 
-Pracujcie w parach lub po 3 osoby na wspólnym repo. Punkty zostaną przyznane wszystkim osobom w grupie, których commity będą widoczne w PR.
+Pracujcie w parach lub po 3 osoby na wspólnym repo. Punkty zostaną przyznane wszystkim osobom w grupie, których commity będą widoczne w PR. Za pracę samemu nie można dostać bonusowych 5 punktów :P
 
-- [ ] (4 punkty) Zaimplementuj zadanie 12A lub 12B z listy [Zadania z STLa](zadania_stl.pdf)
-- [ ] (3 punkty) W powyższym zadaniu zamień wszystkie pętle for/do/while na odpowiednie algorytmy STL
-- [ ] (7 punktów) Rozpocznij implementację [projektu grupowego](../project/README.md). Wykonaj tylko pierwsze User Story: 1. Jako trener chciałbym móc przeglądać, dodawać, usuwać i edytować dane kursantów
-- [ ] (5 punktów) Bonus - osoba/grupa która zaproponuje najlepsze rozwiązanie US1 dostanie dodatkowe 5 punktów, a jej rozwiązanie zostanie zmergowane do projektu. Bardzo ważne będzie napisanie czystego i przejrzystego kodu.
+- [ ] (4 punkty) Zaimplementujcie zadanie 12A lub 12B z listy [Zadania z STLa](zadania_stl.pdf)
+- [ ] (3 punkty) W powyższym zadaniu zamieńcie wszystkie pętle for/do/while na odpowiednie algorytmy STL
+- [ ] (7 punktów) Rozpocznijcie implementację [projektu grupowego](../project/README.md). Nie zapomnijcie o ustawieniu CI :). Wykonajcie tylko pierwsze User Story (US1):
+  > Jako trener chciałbym móc przeglądać, dodawać, usuwać i edytować dane kursantów
+- [ ] (5 punktów - bonus) - grupa która zaproponuje najlepsze rozwiązanie US1 dostanie dodatkowe 5 punktów, a jej rozwiązanie zostanie zmergowane do projektu. Bardzo ważne będzie napisanie czystego i przejrzystego kodu.
 
 ### Pre-work
 
@@ -51,4 +52,3 @@ Pracujcie w parach lub po 3 osoby na wspólnym repo. Punkty zostaną przyznane w
 - [ ] Poczytaj dokumentację frameworka do testowania [GTest](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
 - [ ] Obejrzyj [strukturę projektu oraz CMake do testów w GTest](https://github.com/LordLukin/CombinedNumber)
 - [ ] **Używając frameworka Catch2 napisz kilka testów do pierwszego US w projekcie**
-

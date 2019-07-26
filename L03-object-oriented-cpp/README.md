@@ -49,3 +49,11 @@ Pracujcie w parach lub po 3 osoby na wspólnym repo. Punkty zostaną przyznane w
 - [ ] Zapoznaj się z [opisem kontenerów](http://en.cppreference.com/w/cpp/container)
 - [ ] [Playlista na YT odnosnie STLa](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - obejrzyj ile mozesz :)
 - [ ] Przeczytaj [artykuł Marcina Pietraszka o złożoności obliczeniowej](http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/)
+
+### Uwagi
+
+1. Gettery powinny być constowe, bo nie zmieniają one żadnego pola klasy.
+
+    ```cpp
+    int getValue() const;
+    ```

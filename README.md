@@ -16,7 +16,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 |                                                     | SUMA | Punktualność | CR | PR | Ściągi | Projekt | US | Pomoc | Inne | L1 | L2 | L3 |
 |-----------------------------------------------------|------|--------------|----|----|--------|---------|----|-------|------|----|----|----|
-| [Adam Mierzwiak](https://github.com/adamvm)         |   40 |            6 |    |  1 |      3 |         |    |       |      | 15 | 15 |    |
+| [Adam Mierzwiak](https://github.com/adamvm)         |   40 |            6 |    |  1 |      3 |         |    |       |      | 15 | 15 |  6 |
 | [Alicja](https://github.com/AlicjaBonder)           |   33 |            3 |    |    |        |         |    |       |      | 15 | 15 |    |
 | alicjaliqui                                         |    0 |              |    |    |        |         |    |       |      |    |    |    |
 | [Arion](https://github.com/Ariionex)                |    3 |              |    |    |        |         |    |       |      |  3 |    |    |
@@ -26,19 +26,19 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Joanna](https://github.com/teojdb)                 |   28 |            3 |    |    |      1 |         |    |       |      | 15 |  9 |    |
 | [Kamil.Waszkiewicz](https://github.com/darkassazi)  |    2 |              |    |    |        |         |    |       |      |  2 |    |    |
 | [Kuba_K](https://github.com/kubakusz)               |    3 |              |    |    |        |         |    |       |      |  3 |    |    |
-| [Łukasz](https://github.com/lucaswalicki)           |    8 |              |    |    |        |         |    |       |      |  8 |    |    |
+| [Łukasz](https://github.com/lucaswalicki)           |   15 |              |    |    |        |         |    |       |      |  8 |  4 |  3 |
 | [Marcin Bury](https://github.com/MarcinBury92)      |   15 |              |    |    |        |         |    |       |      | 15 |    |    |
 | [mateuszh](https://github.com/czarny247)            |   18 |              |    |    |        |         |    |       |      |  6 | 12 |    |
 | [MonikaZ](https://github.com/MonikaZelechowska)     |   33 |            3 |    |    |        |         |    |       |      | 15 | 15 |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   18 |            3 |    |    |        |         |    |       |      | 15 |    |    |
 | NG                                                  |    0 |              |    |    |        |         |    |       |      |    |    |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |   24 |              |    |    |        |         |    |       |    1 |  8 | 15 |    |
-| [piotr.kowandy](https://github.com/PiotrKowandy)    |   39 |            6 |    |    |      3 |         |    |       |      | 15 | 15 |    |
-| [rafal.em](https://github.com/elRaphaelo)           |    9 |              |    |    |        |         |    |       |      |  7 |  2 |    |
+| [piotr.kowandy](https://github.com/PiotrKowandy)    |   57 |            9 |    |    |      3 |         |    |       |      | 15 | 15 | 15 |
+| [rafal.em](https://github.com/elRaphaelo)           |   22 |              |    |    |        |         |    |       |      |  7 |  2 | 13 |
 | [Raziel14](https://github.com/Arakis14)             |    2 |              |    |    |        |         |    |       |      |  2 |    |    |
-| [RyszardH](https://github.com/RyszardHalapacz)      |   27 |            3 |    |    |        |         |    |       |      |  9 | 15 |    |
-| [SzymonGajewski](https://github.com/SzymonGajewski) |   39 |            6 |    |    |      3 |         |    |       |      | 15 | 15 |    |
-| [TheDude](https://github.com/TheDude-cpu)           |   17 |              |    |    |        |         |    |       |      |  4 | 13 |    |
+| [RyszardH](https://github.com/RyszardHalapacz)      |   45 |            6 |    |    |        |         |    |       |      |  9 | 15 | 15 |
+| [SzymonGajewski](https://github.com/SzymonGajewski) |   52 |            6 |    |    |      3 |         |    |       |      | 15 | 15 | 13 |
+| [TheDude](https://github.com/TheDude-cpu)           |   20 |              |    |    |        |         |    |       |      |  4 | 13 |  3 |
 | zielin                                              |    0 |              |    |    |        |         |    |       |      |    |    |    |
 
 ### Punktacja
@@ -62,3 +62,9 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - 200 punktów - certyfikat na zakończenie kursu
 - 300 punktów - książka Zawód programista Macieja Aniserowicza ze specjalną dedykacją :)
 - 400 punktów - książka C++17 STL. Receptury Jacka Galowicza
+
+### Uwagi ogólne
+
+- nie wrzucajcie do repo wyników kompilacji (np. plików binarnych a.out lub katalogu build)
+- nie wrzucajcie zakomentowanego kodu. Git pamięta historię, więc jeśli coś zostawiacie tylko dla odniesienia się, albo bo "przydasie" to tego nie róbcie.
+- po zajęciach z testowania nie wrzucajcie już nieprzetestowanego kodu :)
