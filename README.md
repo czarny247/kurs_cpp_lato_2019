@@ -18,13 +18,13 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 |-----------------------------------------------------|------|--------------|----|----|--------|---------|----|----|-------|------|----|----|----|----|
 | [Adam Mierzwiak](https://github.com/adamvm)         |   67 |            9 |    |  1 |      3 |         |    |    |       |    3 | 15 | 15 | 15 |  6 |
 | [Alicja](https://github.com/AlicjaBonder)           |   51 |            6 |    |    |        |         |    |    |       |      | 15 | 15 | 15 |    |
-| alicjaliqui                                         |    0 |              |    |    |        |         |    |    |       |      |    |    |    |    |
+| [alicjaliqui](https://github.com/alicjaliQui)       |   15 |              |    |    |        |         |    |    |       |      | 15 |    |    |    |
 | [Arion](https://github.com/Ariionex)                |   21 |            3 |    |    |        |         |    |    |       |      |  3 |    | 15 |    |
 | [Bodzio](https://github.com/Dolaroza)               |   26 |              |    |    |        |         |    |    |       |    5 |  6 |    | 15 |    |
 | [Cypher](https://github.com/ChopSeeGuy)             |   46 |            3 |    |    |        |         |    |    |       |    5 | 15 |  8 | 15 |    |
 | [Daniel T](https://github.com/LinQ007)              |   25 |            3 |    |    |        |         |    |    |       |      | 15 |  7 |    |    |
-| [Joanna](https://github.com/teojdb)                 |   28 |            3 |    |    |      1 |         |    |    |       |      | 15 |  9 |    |    |
-| [Kamil.Waszkiewicz](https://github.com/darkassazi)  |   23 |            3 |    |    |        |         |    |    |       |    3 |  2 |    | 15 |    |
+| [Joanna](https://github.com/teojdb)                 |   36 |            3 |    |    |      1 |         |    |    |       |      | 15 |  9 |  8 |    |
+| [Kamil.Waszkiewicz](https://github.com/darkassazi)  |   56 |            3 |    |    |        |         |    |    |       |    3 | 15 |  5 | 15 | 15 |
 | [Kuba_K](https://github.com/kubakusz)               |    3 |              |    |    |        |         |    |    |       |      |  3 |    |    |    |
 | [Łukasz](https://github.com/lucaswalicki)           |   20 |              |    |    |        |         |    |    |       |      |  8 |  4 |  8 |    |
 | [Marcin Bury](https://github.com/MarcinBury92)      |   47 |            3 |    |    |        |         |    |    |       |      | 15 | 15 | 14 |    |
@@ -35,7 +35,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Piotr H](https://github.com/PiotrHCpp)             |   41 |            3 |    |    |        |         |    |    |       |    1 |  8 | 15 | 14 |    |
 | [piotr.kowandy](https://github.com/PiotrKowandy)    |   57 |            9 |    |    |      3 |         |    |    |       |      | 15 | 15 | 15 |    |
 | [rafal.em](https://github.com/elRaphaelo)           |   26 |            3 |    |    |        |         |    |    |       |      |  7 |  2 | 14 |    |
-| [Raziel14](https://github.com/Arakis14)             |    8 |              |    |    |        |         |    |    |       |      |  2 |    |    |  6 |
+| [Raziel14](https://github.com/Arakis14)             |   29 |              |    |    |        |         |    |    |       |      | 15 |    |  8 |  6 |
 | [RyszardH](https://github.com/RyszardHalapacz)      |   45 |            6 |    |    |        |         |    |    |       |      |  9 | 15 | 15 |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |   56 |            9 |    |    |      3 |         |    |    |       |      | 15 | 15 | 14 |    |
 | [TheDude](https://github.com/TheDude-cpu)           |   36 |              |    |    |        |         |    |    |       |      | 15 | 13 |  8 |    |
