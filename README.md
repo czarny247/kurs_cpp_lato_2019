@@ -10,7 +10,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 ### [L03 - Obiektowy C++](L03-object-oriented-cpp)
 ### [L04 - STL](L04-stl)
 ### [L05 - Testowanie](L05-testing)
-### L06 - Zarządzanie pamięcią
+### [L06 - Zarządzanie pamięcią](L06-memory-management)
 ### L07 - Nowoczesny C++
 
 ## Organizacja
