@@ -25,6 +25,8 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - [Prezentacja o smart pointerach](smart_pointers.pdf)
 - [Repo memory_management](https://github.com/coders-school/memory_management)
 - [Semantyka przenoszenia](https://infotraining.bitbucket.io/cpp-11/move.html)
+- [Pre-test](pre-test.txt)
+- [Post-test](post-test.txt)
 
 ### Nagrania i foto
 
