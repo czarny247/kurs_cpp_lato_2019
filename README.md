@@ -32,13 +32,13 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Łukasz](https://github.com/lucaswalicki)           |   47 |              |    |    |        |      10 |    |    |       |      |  8 |  4 |  8 | 11 |  6 |    |
 | [Marcin Bury](https://github.com/MarcinBury92)      |   68 |            3 |    |    |        |      15 |    |    |       |      | 15 | 15 | 14 |    |  6 |    |
 | [mateuszh](https://github.com/czarny247)            |   65 |              |    |    |        |      15 |    |    |       |    5 |  6 | 12 | 15 |  6 |  6 |    |
-| [MonikaZ](https://github.com/MonikaZelechowska)     |   75 |            9 |    |    |        |         |    |    |       |      | 15 | 15 | 15 | 15 |  6 |    |
+| [MonikaZ](https://github.com/MonikaZelechowska)     |   75 |            9 |    |    |        |      15 |    |    |       |      | 15 | 15 | 15 | 15 |  6 |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   24 |            3 |    |    |        |         |    |    |       |      | 15 |    |    |    |  6 |    |
 | [NG](https://github.com/NG90)                       |   50 |              |    |    |        |         |    |    |       |      | 15 | 15 | 14 |    |  6 |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |   63 |            3 |    |    |        |      15 |    |    |       |    1 |  8 | 15 | 14 |    |  6 |    |
 | [piotr.kowandy](https://github.com/PiotrKowandy)    |   75 |            9 |    |    |      3 |      12 |    |    |       |      | 15 | 15 | 15 |    |  6 |    |
 | [rafal.em](https://github.com/elRaphaelo)           |   52 |            3 |    |    |        |      20 |    |    |       |      |  7 |  2 | 14 |    |  6 |    |
-| [Raziel14](https://github.com/Arakis14)             |   44 |              |    |    |        |       9 |    |    |       |      | 15 |    |  8 |  6 |  6 |    |
+| [Raziel14](https://github.com/Arakis14)             |   44 |              |    |    |        |      15 |    |    |       |      | 15 |    |  8 |  6 |  6 |    |
 | [RyszardH](https://github.com/RyszardHalapacz)      |   63 |            6 |    |    |        |      12 |    |    |       |      |  9 | 15 | 15 |    |  6 |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |   88 |            9 |    |    |      3 |      20 |    |    |       |      | 15 | 15 | 14 |  6 |  6 |    |
 | [TheDude](https://github.com/TheDude-cpu)           |   63 |              |    |    |        |      10 |    |    |       |      | 15 | 13 |  8 | 11 |  6 |    |
