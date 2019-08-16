@@ -25,7 +25,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Arion](https://github.com/Ariionex)                |   31 |            3 |    |    |        |         |    |    |       |      |  7 |    | 15 |    |  6 |    |
 | [Bodzio](https://github.com/Dolaroza)               |   40 |              |    |    |        |       8 |    |    |       |    5 |  6 |    | 15 |    |  6 |    |
 | [Cypher](https://github.com/ChopSeeGuy)             |   67 |            3 |    |    |        |      15 |    |    |       |    5 | 15 |  8 | 15 |    |  6 |    |
-| [Daniel T](https://github.com/LinQ007)              |   39 |            3 |    |    |        |         |    |    |       |      | 15 | 15 |    |    |  6 |    |
+| [Daniel T](https://github.com/LinQ007)              |   51 |            3 |    |    |        |         |    |    |       |      | 15 | 15 | 12 |    |  6 |    |
 | [Joanna](https://github.com/teojdb)                 |   50 |            3 |    |    |      1 |       8 |    |    |       |      | 15 |  9 |  8 |    |  6 |    |
 | [Kamil.Waszkiewicz](https://github.com/darkassazi)  |   77 |            3 |    |    |        |      15 |    |    |       |    3 | 15 |  5 | 15 | 15 |  6 |    |
 | [Kuba_K](https://github.com/kubakusz)               |    9 |              |    |    |        |         |    |    |       |      |  3 |    |    |    |  6 |    |
@@ -34,7 +34,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [mateuszh](https://github.com/czarny247)            |   65 |              |    |    |        |      15 |    |    |       |    5 |  6 | 12 | 15 |  6 |  6 |    |
 | [MonikaZ](https://github.com/MonikaZelechowska)     |   75 |            9 |    |    |        |         |    |    |       |      | 15 | 15 | 15 | 15 |  6 |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   24 |            3 |    |    |        |         |    |    |       |      | 15 |    |    |    |  6 |    |
-| [NG](https://github.com/NG90)                       |   36 |              |    |    |        |         |    |    |       |      | 15 | 15 |    |    |  6 |    |
+| [NG](https://github.com/NG90)                       |   50 |              |    |    |        |         |    |    |       |      | 15 | 15 | 14 |    |  6 |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |   63 |            3 |    |    |        |      15 |    |    |       |    1 |  8 | 15 | 14 |    |  6 |    |
 | [piotr.kowandy](https://github.com/PiotrKowandy)    |   75 |            9 |    |    |      3 |      12 |    |    |       |      | 15 | 15 | 15 |    |  6 |    |
 | [rafal.em](https://github.com/elRaphaelo)           |   52 |            3 |    |    |        |      20 |    |    |       |      |  7 |  2 | 14 |    |  6 |    |
