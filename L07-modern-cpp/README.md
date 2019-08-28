@@ -25,6 +25,6 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - [ ] Prezentacja [SOLID code](04_STUPID_and_SOLID_code.pdf)
 
 ### Post-work
-- [ ] Dokońć zadania z [modern_cpp](https://github.com/coders-school/modern_cpp)
-- [ ] Dokońć refaktor [kodu](exercises/1-file-reader/main.cpp)
+- [ ] Dokończ zadania z [modern_cpp](https://github.com/coders-school/modern_cpp)
+- [ ] Dokończ refaktor [kodu](exercises/1-file-reader/main.cpp)
 - [ ] (Optional) Zrób refaktor [kodu](exercises/2-zip-file-reader/main.cpp)
