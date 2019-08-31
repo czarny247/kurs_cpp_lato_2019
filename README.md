@@ -28,12 +28,12 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Cypher](https://github.com/ChopSeeGuy)             |  104 |            6 |    |    |        |      15 |    | 21 |       |    5 | 15 |  8 | 15 | 13 |  6 |    |    |
 | [Daniel T](https://github.com/LinQ007)              |   84 |            6 |    |    |        |         |    | 15 |       |      | 15 | 15 | 12 |  5 | 17 |    |    |
 | [Joanna](https://github.com/teojdb)                 |   75 |            6 |    |    |      1 |       8 |    |    |       |      | 15 |  9 |  8 | 22 |  6 |    |    |
-| [Kamil.Waszkiewicz](https://github.com/darkassazi)  |  105 |            6 |    |    |        |      15 |    |    |       |    3 | 15 | 15 | 15 | 15 | 21 |    |    |
+| [Kamil.Waszkiewicz](https://github.com/darkassazi)  |  134 |            9 |    |    |        |      15 |    |    |       |    3 | 15 | 15 | 15 | 15 | 21 | 20 |    |
 | [Kuba_K](https://github.com/kubakusz)               |    9 |              |    |    |        |         |    |    |       |      |  3 |    |    |    |  6 |    |    |
 | [Łukasz](https://github.com/lucaswalicki)           |   66 |            3 |    |    |        |      10 |    |    |       |      | 13 |  4 |  8 | 11 | 17 |    |    |
 | [Marcin Bury](https://github.com/MarcinBury92)      |  114 |            9 |    |    |        |      15 |    |    |       |      | 15 | 15 | 14 | 26 | 20 |    |    |
 | [mateuszh](https://github.com/czarny247)            |   75 |            3 |    |    |        |      15 |    |    |       |    5 |  6 | 12 | 15 | 13 |  6 |    |    |
-| [MonikaZ](https://github.com/MonikaZelechowska)     |  113 |           15 |    |    |        |      15 |    |    |       |      | 15 | 15 | 15 | 18 | 20 |    |    |
+| [MonikaZ](https://github.com/MonikaZelechowska)     |  121 |           15 |    |    |        |      15 |    |    |       |      | 15 | 15 | 15 | 18 | 20 |  8 |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   24 |            3 |    |    |        |         |    |    |       |      | 15 |    |    |    |  6 |    |    |
 | [NG](https://github.com/NG90)                       |   85 |            3 |    |    |        |         |    |    |       |      | 15 | 15 | 14 | 18 | 20 |    |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |  116 |            9 |    |    |        |      15 |    |    |       |    1 | 15 | 15 | 14 | 26 | 21 |    |    |
@@ -42,7 +42,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Raziel14](https://github.com/Arakis14)             |   79 |            3 |    |    |        |      15 |    |    |       |      | 15 | 15 |  8 |  6 | 17 |    |    |
 | [RyszardH](https://github.com/RyszardHalapacz)      |  101 |           12 |    |    |        |      12 |    |    |       |      |  9 | 15 | 15 | 18 | 20 |    |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |  117 |           12 |    |    |      3 |      20 |    |    |       |      | 15 | 15 | 14 | 18 | 20 |    |    |
-| [TheDude](https://github.com/TheDude-cpu)           |  110 |            3 |    |    |        |      10 |    | 30 |       |      | 15 | 13 |  8 | 11 | 20 |    |    |
+| [TheDude](https://github.com/TheDude-cpu)           |  114 |            3 |    |    |        |      10 |    | 30 |       |      | 15 | 13 |  8 | 11 | 20 |  4 |    |
 | zielin                                              |    6 |              |    |    |        |         |    |    |       |      |    |    |    |    |  6 |    |    |
 
 ### Punktacja
