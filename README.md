@@ -35,17 +35,17 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Joanna](https://github.com/teojdb)                 |  105 |            6 |      4 |       8 |    |    |       |    3 | 15 | 15 | 14 | 22 | 18 |    |    |    |    |
 | [Kamil.Waszkiewicz](https://github.com/darkassazi)  |  242 |            9 |        |      44 | 13 | 51 |    16 |    8 | 15 | 15 | 15 | 15 | 21 | 20 |    |    |    |
 | [Kuba_K](https://github.com/kubakusz)               |   10 |              |        |         |    |    |       |    1 |  3 |    |    |    |  6 |    |    |    |    |
-| [Łukasz](https://github.com/lucaswalicki)           |  133 |            3 |        |      24 |  6 | 18 |    18 |   11 | 13 |  4 |  8 | 11 | 17 |    |    |    |    |
+| [Łukasz](https://github.com/lucaswalicki)           |  154 |            3 |        |      24 |  6 | 39 |    18 |   11 | 13 |  4 |  8 | 11 | 17 |    |    |    |    |
 | [Marcin Bury](https://github.com/MarcinBury92)      |  155 |            9 |        |      30 |    |    |    25 |    1 | 15 | 15 | 14 | 26 | 20 |    |    |    |    |
 | [mateuszh](https://github.com/czarny247)            |  143 |            3 |        |      44 | 13 |    |    20 |   11 |  6 | 12 | 15 | 13 |  6 |    |    |    |    |
 | [MonikaZ](https://github.com/MonikaZelechowska)     |  177 |           18 |        |      30 |  6 |    |    21 |    1 | 15 | 15 | 15 | 18 | 20 | 18 |    |    |    |
 | [nadia1101](https://github.com/JustynaSlazak)       |   26 |            3 |        |         |    |    |       |    2 | 15 |    |    |    |  6 |    |    |    |    |
 | [NG](https://github.com/NG90)                       |  121 |            3 |        |      14 |    |    |    22 |      | 15 | 15 | 14 | 18 | 20 |    |    |    |    |
 | [Piotr H](https://github.com/PiotrHCpp)             |  194 |            9 |      3 |      29 |    | 18 |    24 |    6 | 15 | 15 | 14 | 26 | 21 | 11 |    |    |    |
-| [piotr.kowandy](https://github.com/PiotrKowandy)    |  186 |           15 |      3 |      27 |  5 | 15 |    22 |    5 | 15 | 15 | 15 | 18 | 20 | 11 |    |    |    |
+| [piotr.kowandy](https://github.com/PiotrKowandy)    |  201 |           15 |      3 |      27 |  5 | 30 |    22 |    5 | 15 | 15 | 15 | 18 | 20 | 11 |    |    |    |
 | [rafal.em](https://github.com/elRaphaelo)           |  107 |            3 |        |      35 |  6 |    |    16 |    5 |  7 |  2 | 14 | 13 |  6 |    |    |    |    |
-| [Raziel14](https://github.com/Arakis14)             |  120 |            3 |        |      29 |  6 |    |    15 |      | 15 | 15 | 14 |  6 | 17 |    |    |    |    |
-| [RyszardH](https://github.com/RyszardHalapacz)      |  141 |           12 |        |      26 |    |    |    24 |    2 |  9 | 15 | 15 | 18 | 20 |    |    |    |    |
+| [Raziel14](https://github.com/Arakis14)             |  153 |            3 |        |      29 |  6 | 33 |    15 |      | 15 | 15 | 14 |  6 | 17 |    |    |    |    |
+| [RyszardH](https://github.com/RyszardHalapacz)      |  156 |           12 |        |      26 |    | 15 |    24 |    2 |  9 | 15 | 15 | 18 | 20 |    |    |    |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |  185 |           12 |      3 |      35 |    | 15 |    21 |    6 | 15 | 15 | 14 | 18 | 20 | 11 |    |    |    |
 | [TheDude](https://github.com/TheDude-cpu)           |  155 |            3 |        |      25 |    | 30 |    14 |    1 | 15 | 13 |  8 | 11 | 20 | 15 |    |    |    |
 | zielin                                              |    6 |              |        |         |    |    |       |      |    |    |    |    |  6 |    |    |    |    |
