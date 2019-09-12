@@ -45,7 +45,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [piotr.kowandy](https://github.com/PiotrKowandy)    |  229 |           18 |      3 |      27 |  5 | 30 |    22 |    5 | 15 | 15 | 15 | 18 | 20 | 20 | 16 |    |    |
 | [rafal.em](https://github.com/elRaphaelo)           |  107 |            3 |        |      35 |  6 |    |    16 |    5 |  7 |  2 | 14 | 13 |  6 |    |    |    |    |
 | [Raziel14](https://github.com/Arakis14)             |  153 |            3 |        |      29 |  6 | 33 |    15 |      | 15 | 15 | 14 |  6 | 17 |    |    |    |    |
-| [RyszardH](https://github.com/RyszardHalapacz)      |  156 |           12 |        |      26 |    | 15 |    24 |    2 |  9 | 15 | 15 | 18 | 20 |    |    |    |    |
+| [RyszardH](https://github.com/RyszardHalapacz)      |  209 |           12 |        |      26 |    | 48 |    24 |    2 |  9 | 15 | 15 | 18 | 20 | 20 |    |    |    |
 | [SzymonGajewski](https://github.com/SzymonGajewski) |  194 |           12 |      3 |      35 |    | 15 |    21 |    6 | 15 | 15 | 14 | 18 | 20 | 20 |    |    |    |
 | [TheDude](https://github.com/TheDude-cpu)           |  155 |            3 |        |      25 |    | 30 |    14 |    1 | 15 | 13 |  8 | 11 | 20 | 15 |    |    |    |
 | zielin                                              |    6 |              |        |         |    |    |       |      |    |    |    |    |  6 |    |    |    |    |
