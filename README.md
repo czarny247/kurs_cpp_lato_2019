@@ -25,7 +25,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 |                                                     | SUMA | Punktualność | Ściągi | Projekt | US | FC | Test1 | Inne | L1 | L2 | L3 | L4 | L5 | L6 | L7 | L8 | L9 |
 |-----------------------------------------------------|------|--------------|--------|---------|----|----|-------|------|----|----|----|----|----|----|----|----|----|
-| [Adam Mierzwiak](https://github.com/adamvm)         |  152 |           12 |      3 |      15 |  6 | 15 |    17 |   13 | 15 | 15 | 15 |  6 | 20 |    |    |    |    |
+| [Adam Mierzwiak](https://github.com/adamvm)         |  161 |           12 |      3 |      15 |  6 | 15 |    17 |   13 | 15 | 15 | 15 | 15 | 20 |    |    |    |    |
 | [Alicja](https://github.com/AlicjaBonder)           |   57 |            6 |        |         |    |    |       |      | 15 | 15 | 15 |    |  6 |    |    |    |    |
 | [alicjaliqui](https://github.com/alicjaliQui)       |  177 |            3 |        |      29 | 13 | 27 |    29 |    2 | 15 | 15 |    | 22 | 22 |    |    |    |    |
 | [Arion](https://github.com/Ariionex)                |   36 |            3 |        |         |    |    |       |    5 |  7 |    | 15 |    |  6 |    |    |    |    |
