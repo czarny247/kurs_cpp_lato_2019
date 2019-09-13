@@ -24,8 +24,18 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 - <img src="foto/01_repetition.jpg" width="250px" /> <img src="foto/02_refinement.jpg" width="250px" />
   <img src="foto/03_planning.jpg" width="250px" /> <img src="foto/04_refactoring.jpg" width="250px" />
+- [07.09.2019 Powtórka z dobrych praktyki i nowoczesnego C++](https://www.youtube.com/watch?v=ItmUL8lH-j0&list=PLQqoaQUqs4DCoZOgDbqR-KfGSxParz1Pf&index=42)
+- [07.09.2019 Planning](https://www.youtube.com/watch?v=1kszZYWjZZg&list=PLQqoaQUqs4DCoZOgDbqR-KfGSxParz1Pf&index=43)
+- [07.09.2019 Zadania do zrobienia](https://www.youtube.com/watch?v=VGz2ILtAJBw&list=PLQqoaQUqs4DCoZOgDbqR-KfGSxParz1Pf&index=44)
+- [07.09.2019 Coding Dojo - refactoring CourseDashboard](https://www.youtube.com/watch?v=VNp_qhbNNLA&list=PLQqoaQUqs4DCoZOgDbqR-KfGSxParz1Pf&index=45)
   
 #### Grupa wieczorowa
+
+- <img src="foto/01a_repetition.jpg" width="250px" /> <img src="foto/02a_refinement.jpg" width="250px" />
+  <img src="foto/03a_refinement.jpg" width="250px" /> <img src="foto/04a_planning.jpg" width="250px" />
+- [10.09.2019 Powtórka z dobrych praktyk i nowoczesnego C++](https://www.youtube.com/watch?v=ETixmKJtP1g&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=39)
+- [10.09.2019 Planowanie](https://www.youtube.com/watch?v=2MssPK62mpk&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=40)
+- [10.09.2019 Wybór ćwiczenia, rozpiska zadań](https://www.youtube.com/watch?v=omODEtcbieM&list=PLQqoaQUqs4DCaFPwa3qfVlJc9YOfZkPAO&index=40)
 
 ### Post-work
 

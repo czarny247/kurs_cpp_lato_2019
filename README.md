@@ -14,7 +14,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 ### [L06 - Zarządzanie pamięcią](L06-memory-management)
 ### [L07 - Nowoczesny C++ i Dobre praktyki](L07-modern-cpp)
 ### [L08 - Refactoring Dojo](L08-refactoring-dojo)
-### L09 - Szablony i wzorce projektowe
+### [L09 - Szablony i wzorce projektowe](L09-templates-patterns)
 ### L10 - Powtórka
 ### Test końcowy
 ### L11 - Rekrutacja
