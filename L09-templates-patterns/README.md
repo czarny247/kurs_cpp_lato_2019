@@ -4,7 +4,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ## Grupa weekendowa
 
-### 04.09.2019 Szablony i wzorce projektowe
+### 14.09.2019 Szablony i wzorce projektowe
 
 ## Grupa wieczorowa
 
@@ -21,13 +21,17 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 - Wzorce projektowe na [sourcemaking.com](https://sourcemaking.com/design_patterns)
 - Repo [templates](https://github.com/ziobron/templates)
 - Prezentacja [Variadic Templates](variadic_templates.pdf)
-- [Materiały powtórkowe poprzednich grup]](https://github.com/coders-school/kurs_cpp_zima_2019/tree/master/L13-templates,patterns,repetition/materialy_poprzednich_grup)
+- [Materiały powtórkowe poprzednich grup](https://github.com/coders-school/kurs_cpp_zima_2019/tree/master/L13-templates,patterns,repetition/materialy_poprzednich_grup)
 
 ### Nagrania i foto
 
 #### Grupa weekendowa
   
 #### Grupa wieczorowa
+
+- <img src="foto/01_worst_best.jpg" width="250px" /> <img src="foto/02_repetition.jpg" width="250px" />
+  <img src="foto/03_patterns.jpg" width="250px" /> <img src="foto/04_singleton.jpg" width="250px" />
+  <img src="foto/05_patterns.jpg" width="250px" />
 
 ### Post-work
 
